@@ -16,6 +16,7 @@ function About() {
   <p>
   I possess comprehensive knowledge of JavaScript, React, Node.js, MongoDB, REST APIs, CSS, HTML, and SQL among other languages and technologies. As I progress in my career, I am particularly interested on delving deeper into the realms of artificial intelligence (AI) in its uses for marketing and advertising, as well as its potential for improvimg music software, which encompasses digital audio workstations (DAWs) and plugins. To pursue this interest, I have embarked on a journey of gaining Machine Learning certifications through Google & Coursera recognizing the potential in this field.
   </p>
+  <p>You can contact me at isaacstofko@gmail.com</p>
 
 </div>
       <div className="image-container">
