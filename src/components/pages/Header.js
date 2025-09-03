@@ -3,15 +3,17 @@ import Navbar from '../Navbar';
 
 function Header({ currentPage, handlePageChange }) {
   return (
-    <div className="header-body" id="header">
-  
-        <h1 className="name">First of Kind</h1>
-        <h2 className="tag">Development and Design</h2>
-        <h2 className="title">Full Stack Web Developer</h2>
-
+    <div>
       <div className="nav-wrap">
         <Navbar currentPage={currentPage} handlePageChange={handlePageChange} /> 
       </div>
+    <div className="header-body" id="header">
+  
+      
+        <h1 className="tag">Full Stack Web Development and Design</h1>
+       
+
+    </div>
     </div>
   );
 }
