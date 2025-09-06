@@ -10,11 +10,10 @@ function About() {
       <div className="main-about">
 <h4 class="header-four">About Me</h4>
 <p>
-  I am a full stack web developer equipped with a robust educational and
-  professional foundation in English Literature, Creative Writing, Art History, Hospitality, and Team Management. I am passionate about creating beautiful and user friendly UIs and mobile-first frontend development. I am equally passionate about utilizing backend frameworks and libraries to create dynamic, scalable, and streamlined backends, seeking to balance style with utility. 
+ I am a full-stack web developer with a unique foundation that spans English Literature, Creative Writing, Art History, Hospitality, and Team Management. This diverse background gives me the ability to approach problems with both technical precision and creative insight. I specialize in building secure, data-driven, and responsive applications that balance performance, usability, and design.
   </p>
   <p>
-  I possess comprehensive knowledge of JavaScript, React, Node.js, MongoDB, REST APIs, CSS, HTML, and SQL among other languages and technologies. As I progress in my career, I am particularly interested on delving deeper into the realms of artificial intelligence (AI) in its uses for marketing and advertising, as well as its potential for improvimg music software, which encompasses digital audio workstations (DAWs) and plugins. To pursue this interest, I have embarked on a journey of gaining Machine Learning certifications through Google & Coursera recognizing the potential in this field.
+My technical expertise includes PHP, JavaScript, React, Node.js, REST APIs, MongoDB, SQL, HTML, and CSS, with a focus on creating scalable, mobile-first solutions. I am equally at home designing intuitive, user-friendly interfaces as I am engineering robust backend frameworks. Beyond development, I am deeply interested in the intersection of artificial intelligence, marketing, and creative tools such as digital audio workstations (DAWs) and plugins. To pursue this, I have earned certifications in Machine Learning, Artificial Intelligence, and Cybersecurity, and continue to expand my knowledge in these areas.
   </p>
   <p>You can contact me at isaacstofko@gmail.com</p>
 
