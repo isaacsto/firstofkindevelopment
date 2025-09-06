@@ -6,7 +6,6 @@ import Home from "./pages/Home";
 import Projects from "./pages/Projects";
 import Footer from "./Footer";
 import Header from "./pages/Header";
-import Resume from "./pages/Resume";
 import Contact from "./pages/Contact";
 
 import "../App.css";
@@ -42,7 +41,7 @@ export default function PortfolioContainer() {
         <Route path="/" element={<Home />} />
         <Route path="/Home" element={<Home />} />
         <Route path="/Projects" element={<Projects />} />
-        <Route path="/Resume" element={<Resume />} />
+     
         <Route path="/Contact" element={<Contact/>} />
       </Routes>
       <Footer currentPage={currentPage} handlePageChange={handlePageChange} />

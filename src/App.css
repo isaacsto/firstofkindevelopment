@@ -294,7 +294,7 @@ h5.card-title i {
 }
 
 /* Resume Download */
-.resume-page {
+/* .resume-page {
   width: 100%;
   display: flex;
   justify-content: center;
@@ -373,7 +373,7 @@ h5.card-title i {
     display: flex;
     flex-direction: column;
   }
-}
+} */
 
 /* Style for the accordion */
 .pricing {
@@ -455,4 +455,13 @@ button {
 button:hover {
   background-color: #f6f6f6;
   color: #000;
+}
+
+.contact-head {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+textarea, input {
+      margin: 10px 0!important;
 }

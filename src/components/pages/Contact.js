@@ -38,8 +38,9 @@ function Contact() {
 
   return (
     <div className="">
-      <h2 className="">Contact Us</h2>
+     
       <form onSubmit={handleSubmit} className="space-y-4">
+         <h2 className="contact-head">Contact</h2>
         <input
           type="text"
           name="name"
