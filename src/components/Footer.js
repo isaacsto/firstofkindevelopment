@@ -21,7 +21,6 @@ const styles = {
     <div >
   <a href="https://github.com/isaacsto" target="blank"><i class="fab fa-github" style={styles.linkStyle}></i></a>
   <a href="https://www.linkedin.com/in/isaac-stofko-374a32264/" target="blank" style={styles.linkStyle}><i class="fab fa-linkedin"></i></a>
-  <a href="https://assignedfakeatbirth.wordpress.com/" target="blank"><i class="fab fa-wordpress" style={styles.linkStyle}></i></a>
   </div>
   </footer>
     )}
