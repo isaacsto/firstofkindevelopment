@@ -31,9 +31,9 @@ function Freelance() {
             <div className="accordion-content">
               <p> Flat rates are ideal for projects with well-defined scopes and clear deliverables.</p>
               <p><strong>Pricing:</strong><br/>
-                - Basic Website: Starting from $2500<br/>
-                - Medium-Scale Website: Starting from $5000<br/>
-                - Advanced Website: Starting from $7500</p>
+                - Basic Website: Starting from $500<br/>
+                - Medium-Scale Website: Starting from $1000<br/>
+                - Advanced Website: Starting from $1500</p>
               <p><strong>Factors Influencing Price:</strong><br/>
                 - Complexity of design and functionality<br/>
                 - Integration of third-party services<br/>
