@@ -8,7 +8,9 @@ function About() {
     <div class="container about">  
       <div className="about-body"> 
       <div className="main-about">
-<h4 class="header-four">About Me</h4>
+        <h4>Mission</h4>
+        <p>First Kind is dedicated to bringing true originality to every endeavor, where technology becomes a medium of art and art informs design, business, and innovation. We blend the vision of an artist with the precision of a developer to create secure, responsive, and ethical solutions shaped by integrity. Guided by an anarchist ethos, we reject conformity and cookie-cutter approaches, instead building authentic partnerships and crafting contemporary solutions that address real-world problems—one client at a time.</p>
+<h4 class="header-four">About Developer</h4>
 <p>
  I am a full-stack web developer with a unique foundation that spans English Literature, Creative Writing, Art History, Hospitality, and Team Management. This diverse background gives me the ability to approach problems with both technical precision and creative insight. I specialize in building secure, data-driven, and responsive applications that balance performance, usability, and design.
   </p>
